@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lanche salgado &#8211; Coffeeshop</title>
+	<atom:link href="http://github.com/thilourenco05/coffee.shop/index.php/categoria-produto/lanche/lanche-salgado/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/thilourenco05/coffee.shop/</link>
+	<description></description>
+	<lastBuildDate>Sun, 20 Nov 2022 21:01:22 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Empada de camarão &#8211; unidade 100g</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/empada-de-camarao-unidade-100g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=empada-de-camarao-unidade-100g</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/empada-de-camarao-unidade-100g/#respond</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 14:46:25 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=49</guid>
+
+					<description><![CDATA[Excelente petisco. Não sei se combina com café, mas, na real, quem se importa? Geralmente, utilizamos camarão de verdade.]]></description>
+										<content:encoded><![CDATA[<p>Excelente petisco. Não sei se combina com café, mas, na real, quem se importa?</p>
+<p>Geralmente, utilizamos camarão de verdade.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/empada-de-camarao-unidade-100g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pastel de forno sabor Frango &#8211; unidade 300g.</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/pastel-de-forno-sabor-frango-unidade-300g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pastel-de-forno-sabor-frango-unidade-300g</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/pastel-de-forno-sabor-frango-unidade-300g/#comments</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 14:33:09 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=45</guid>
+
+					<description><![CDATA[O melhor pastel de frango da região. Talvez do planeta. Talvez da galáxia (será que em outros planetas esse alimento também é consumido?).]]></description>
+										<content:encoded><![CDATA[<p>O melhor pastel de frango da região. Talvez do planeta. Talvez da galáxia (será que em outros planetas esse alimento também é consumido?).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/pastel-de-forno-sabor-frango-unidade-300g/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

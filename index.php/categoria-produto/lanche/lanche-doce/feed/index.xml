@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lanche doce &#8211; Coffeeshop</title>
+	<atom:link href="http://github.com/thilourenco05/coffee.shop/index.php/categoria-produto/lanche/lanche-doce/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/thilourenco05/coffee.shop/</link>
+	<description></description>
+	<lastBuildDate>Sun, 20 Nov 2022 21:09:00 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Cupcake especial halloween &#8211; unidade 75g</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/cupcake-especial-halloween-unidade-75g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cupcake-especial-halloween-unidade-75g</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/cupcake-especial-halloween-unidade-75g/#respond</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 14:17:12 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=41</guid>
+
+					<description><![CDATA[Você realmente se importa com o halloween? Nem eu. Mas admita, que o cupcake ficou bonito (não necessariamente gostoso).]]></description>
+										<content:encoded><![CDATA[<p>Você realmente se importa com o halloween? Nem eu.</p>
+<p>Mas admita, que o cupcake ficou bonito (não necessariamente gostoso).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/cupcake-especial-halloween-unidade-75g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Morango com leite condensado &#8211; poção 200g</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/morango-com-leite-condensado-pocao-200g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=morango-com-leite-condensado-pocao-200g</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/morango-com-leite-condensado-pocao-200g/#respond</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 14:08:20 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=37</guid>
+
+					<description><![CDATA[O que você esperava ler na descrição? O nome já explica tudo! Morango e leite condensado.]]></description>
+										<content:encoded><![CDATA[<p>O que você esperava ler na descrição? O nome já explica tudo! Morango e leite condensado.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/morango-com-leite-condensado-pocao-200g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Donut chocolate &#8211; unidade.</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/donut-sabores-unidade/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=donut-sabores-unidade</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/donut-sabores-unidade/#respond</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 13:57:52 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=33</guid>
+
+					<description><![CDATA[PESO LÍQUIDO POR UNIDADE : 75 g]]></description>
+										<content:encoded><![CDATA[<p>Também é conhecido como rosquinha na padaria daqui do bairro. No fim das contas, todos sabemos que nomes americanizados vendem melhor.</p>
+<p>Consuma com moderação. Uma unidade deste produto pode suprir sua necessidade calórica de duas semanas.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/donut-sabores-unidade/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

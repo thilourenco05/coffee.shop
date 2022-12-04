@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Café artesanal &#8211; Coffeeshop</title>
+	<atom:link href="http://github.com/thilourenco05/coffee.shop/index.php/categoria-produto/cafe/cafe-artesanal/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/thilourenco05/coffee.shop/</link>
+	<description></description>
+	<lastBuildDate>Fri, 18 Nov 2022 18:14:58 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Café do Rancho &#8211; Pacote 1Kg.</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-do-rancho-pacote-de-1kg/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cafe-do-rancho-pacote-de-1kg</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-do-rancho-pacote-de-1kg/#respond</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 12:49:41 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=21</guid>
+
+					<description><![CDATA[Medidas das embalagens
+500 grs nas medidas 10,0 cm X 34,0 cm X 6,0 cm de sanfona.
+1000 grs nas medidas 13,0 cm X 39,0 cm X 7,5 cm de sanfona.
+
+&#160;]]></description>
+										<content:encoded><![CDATA[<p>Café fornecido pelos ranchos do mundo afora.</p>
+<p>Esta iguaria se enquadra na categoria de café artesanal, pois café ruim também é arte.</p>
+<p>Às vezes parece petróleo, às vezes parece chá.</p>
+<p>Infelizmente isto está à venda, fazer o que né? Negócios são negócios.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-do-rancho-pacote-de-1kg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Café torrado pelo Felix &#8211; Pacote 1Kg.</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-torrado-pelo-felix-pacote-1kg/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cafe-torrado-pelo-felix-pacote-1kg</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-torrado-pelo-felix-pacote-1kg/#comments</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 12:14:20 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=16</guid>
+
+					<description><![CDATA[Medidas das embalagens
+500 grs nas medidas 10,0 cm X 34,0 cm X 6,0 cm de sanfona.
+1000 grs nas medidas 13,0 cm X 39,0 cm X 7,5 cm de sanfona.
+
+&#160;]]></description>
+										<content:encoded><![CDATA[<p><strong>Café torrado pelas mãos do próprio Felix.</strong></p>
+<p>Produto natural, sem conservantes e com aroma indescritível.</p>
+<p>Muito melhor que Melita, Pilão, Café do Rancho e outras porcarias.</p>
+<p>Vai perder?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-torrado-pelo-felix-pacote-1kg/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

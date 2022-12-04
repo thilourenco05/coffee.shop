@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Café comum &#8211; Coffeeshop</title>
+	<atom:link href="http://github.com/thilourenco05/coffee.shop/index.php/categoria-produto/cafe/cafe-comum/feed/" rel="self" type="application/rss+xml" />
+	<link>http://github.com/thilourenco05/coffee.shop/</link>
+	<description></description>
+	<lastBuildDate>Sun, 20 Nov 2022 20:58:38 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Café Pilão Cafeteria Espresso Vácuo 500g</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-pilao-cafeteria-espresso-vacuo-500g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cafe-pilao-cafeteria-espresso-vacuo-500g</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-pilao-cafeteria-espresso-vacuo-500g/#respond</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 02:06:42 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=887</guid>
+
+					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+ 	<li><span class="a-list-item">Intensidade 10</span></li>
+ 	<li><span class="a-list-item">Contém 500g</span></li>
+ 	<li><span class="a-list-item">Aroma e o sabor do café arábica</span></li>
+ 	<li><span class="a-list-item">Origem: BR</span></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Desculpe, não sei a diferença entre café &#8220;comum&#8221; e expresso.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-pilao-cafeteria-espresso-vacuo-500g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Café Pilão Torrado e Moído Tradicional Vácuo 500g</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-pilao-torrado-e-moido-tradicional-vacuo-500g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cafe-pilao-torrado-e-moido-tradicional-vacuo-500g</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-pilao-torrado-e-moido-tradicional-vacuo-500g/#respond</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 13:40:26 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=29</guid>
+
+					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+ 	<li><span class="a-list-item">Intensidade 10</span></li>
+ 	<li><span class="a-list-item">Contém 500g</span></li>
+ 	<li><span class="a-list-item">Aroma e o sabor do café arábica</span></li>
+ 	<li><span class="a-list-item">Origem: BR</span></li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>O Brasil é o maior produtor de café do mundo. Como isso custa tão caro?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/cafe-pilao-torrado-e-moido-tradicional-vacuo-500g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NESCAFÉ Tradição &#8211; 100g</title>
+		<link>http://github.com/thilourenco05/coffee.shop/index.php/produto/nescafe-tradicao-100g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nescafe-tradicao-100g</link>
+					<comments>http://github.com/thilourenco05/coffee.shop/index.php/produto/nescafe-tradicao-100g/#respond</comments>
+		
+		<dc:creator><![CDATA[coffeeroot05]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 13:26:01 +0000</pubDate>
+				<guid isPermaLink="false">http://github.com/thilourenco05/coffee.shop/?post_type=product&#038;p=25</guid>
+
+					<description><![CDATA[Peso líquido: 100 g]]></description>
+										<content:encoded><![CDATA[<p>Sinceramente, a embalagem é bonita. O conteúdo só Deus sabe.</p>
+<p>Café está longe de ser minha bebida favorita, então vou pedir sua ajuda, tudo bem?</p>
+<p>Compre, beba e avalie. Talvez assim eu consiga escrever uma descrição decente.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://github.com/thilourenco05/coffee.shop/index.php/produto/nescafe-tradicao-100g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
